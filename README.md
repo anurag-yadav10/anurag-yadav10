@@ -16,7 +16,7 @@
 
 I'm a Mechanical Engineering undergrad at SVNIT Surat who got into software through robotics — building the control systems for a rover made me want to understand the code as well as the hardware. That led me into full-stack web development, and it's what I focus on now.
 
-Currently building **MiniChat**, learning **React** and **system design**, and working through DSA.
+Currently building **MiniChat**, learning **React**, and working through DSA.
 
 ---
 
